@@ -1,4 +1,4 @@
-#Python loading screen prompt generator
+# Python loading screen prompt generator
 
 This python file will pick a random line from `msg.txt` and print it to the screen.
 If requested multiple prompts, it will print one every interval.
