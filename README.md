@@ -6,7 +6,7 @@ If requested multiple prompts, it will print one every second.
 ### To call the function
 ```
 import load
-load.msg(<number of prompts>, <interval>)
+load.msg(<number of prompts>)
 ```
 
 Please note that:
